@@ -1,4 +1,5 @@
 # WoodShops_Inventory_Management_System
+Java Shop Management: An OOP Project
 
 ## Technical Project Summary:
 - Language: Java
